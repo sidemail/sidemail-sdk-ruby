@@ -1,0 +1,33 @@
+.bundle/
+/vendor/bundle/
+/log/
+/tmp/
+
+# Coverage reports
+/coverage/
+
+# Byebug / Pry history
+/.byebug_history
+/.pry_history
+
+# RSpec failures file
+.rspec_status
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+
+# Ruby / gem artifacts
+*.gem
+/.yardoc
+/doc/
+
+# IDE/project files
+.idea/
+.vscode/
+*.iml
+
+*.lock
